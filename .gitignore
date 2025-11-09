@@ -1,0 +1,26 @@
+# Maven
+target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Screenshots
+screenshots/
+
+# Test reports
+test-output/
+test-results/
+allure-results/
+allure-report/
+
+# Environment variables
+.env
+
+.allure/
